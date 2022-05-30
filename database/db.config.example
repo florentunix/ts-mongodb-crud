@@ -1,0 +1,5 @@
+export const HOST:string = "host";
+export const PORT:number = port;
+export const USER:string = "user";
+export const PASSWORD:string = "password";
+export const DATABASE:string = "database";
